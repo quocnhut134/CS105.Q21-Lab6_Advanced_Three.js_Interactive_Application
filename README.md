@@ -2,7 +2,7 @@
 
 **Student: Duong Quoc Nhut - ID: 23521132**
 
-A state-of-the-art interactive Web 3D application designed using a professional **Modular Architecture**. This project synthesizes and showcases core **Three.js** production techniques, ranging from hierarchical object tree management and shadow map optimization to complex algorithmic animations and Physically Based Rendering (PBR) materials.
+An interactive Web 3D application designed using a professional **Modular Architecture**. This project synthesizes and showcases core **Three.js** production techniques, ranging from hierarchical object tree management and shadow map optimization to complex algorithmic animations and Physically Based Rendering (PBR) materials.
 
 <img width="1467" height="906" alt="Image" src="https://github.com/user-attachments/assets/98f385a8-8962-433d-9c76-6734511658bb" />
 
