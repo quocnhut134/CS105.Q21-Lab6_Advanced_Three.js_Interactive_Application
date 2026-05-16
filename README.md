@@ -4,10 +4,10 @@
 
 An interactive Web 3D application designed using a professional **Modular Architecture**. This project synthesizes and showcases core **Three.js** production techniques, ranging from hierarchical object tree management and shadow map optimization to complex algorithmic animations and Physically Based Rendering (PBR) materials.
 
+**You can find full demo video here: [Advanced Three.js Interactive Demo Application](https://www.youtube.com/watch?v=kVIonvwlmlg)**
+
 https://github.com/user-attachments/assets/9878879a-bd98-4fff-8318-b6b999c77ae7
 
----
-**You can find full demo video here: [Advanced Three.js Interactive Demo Application](https://www.youtube.com/watch?v=kVIonvwlmlg)**
 ---
 
 ## Core Features
