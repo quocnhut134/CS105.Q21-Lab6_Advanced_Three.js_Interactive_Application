@@ -4,6 +4,8 @@
 
 A state-of-the-art interactive Web 3D application designed using a professional **Modular Architecture**. This project synthesizes and showcases core **Three.js** production techniques, ranging from hierarchical object tree management and shadow map optimization to complex algorithmic animations and Physically Based Rendering (PBR) materials.
 
+<img width="1467" height="906" alt="Image" src="https://github.com/user-attachments/assets/98f385a8-8962-433d-9c76-6734511658bb" />
+
 ---
 
 ## Core Features
@@ -77,3 +79,5 @@ Then view the build output by pointing your browser to: `http://localhost:8080`
 * **Dolly / Zoom:** Roll the mouse scroll wheel to transition distance fields smoothly.
 * **Control UI (dat.GUI):** Locate the dashboard in the top-right corner. You can alter the material profile dynamically (e.g., selecting `Basic` to bypass light interactions, or `Phong` to emphasize mirror specularity) or adjust specific light intensities and fog levels to evaluate rendering changes instantly.
 """
+
+https://github.com/user-attachments/assets/9878879a-bd98-4fff-8318-b6b999c77ae7
