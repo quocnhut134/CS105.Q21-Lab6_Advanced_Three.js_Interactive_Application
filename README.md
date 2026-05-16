@@ -7,6 +7,8 @@ An interactive Web 3D application designed using a professional **Modular Archit
 https://github.com/user-attachments/assets/9878879a-bd98-4fff-8318-b6b999c77ae7
 
 ---
+**You can find full demo video here: [Advanced Three.js Interactive Demo Application](https://www.youtube.com/watch?v=kVIonvwlmlg)**
+---
 
 ## Core Features
 
