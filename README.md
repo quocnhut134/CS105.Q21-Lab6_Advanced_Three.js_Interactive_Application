@@ -1,4 +1,4 @@
-# CS105.Q21-Lab6: Advanced Three.js Interactive Demo Application
+# CS105.Q21 - Advanced Three.js Interactive Demo Application
 
 **Student: Duong Quoc Nhut - ID: 23521132**
 
